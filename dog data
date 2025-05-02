@@ -32,7 +32,7 @@
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "dhttps://images.pexels.com/photos/1591939/pexels-photo-1591939.jpeg"
+    "image_url": "https://images.pexels.com/photos/1591939/pexels-photo-1591939.jpeg"
   },
   {
     "name": "Daisy",
